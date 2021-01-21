@@ -4,4 +4,9 @@
 !*/
 !.gitignore
 !README.md
+!*.md
+!*.pdf
+!*.jpg
+!*.png
+!*.c
 
